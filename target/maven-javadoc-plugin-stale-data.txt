@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Users/alumnado/Documents/NetBeansProjects/RMF/hotel/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Users/alumnado/Documents/NetBeansProjects/RMF/hotel/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'hotel 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'hotel 1.0-SNAPSHOT API'
+com.mycompany.hotel
+com.mycompany.hotel.objetos
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\src\main\java = 1710162874957
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\allclasses-index.html = 1710768256547
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\allpackages-index.html = 1710768256550
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\copy.svg = 1710768256596
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\element-list = 1710768256453
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\help-doc.html = 1710768256584
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\index-all.html = 1710768256576
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\index.html = 1710768256530
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\jquery-ui.overrides.css = 1710768256634
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\member-search-index.js = 1710768256555
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\module-search-index.js = 1710768256552
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\overview-summary.html = 1710768256578
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\overview-tree.html = 1710768256526
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\package-search-index.js = 1710768256553
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\script.js = 1710768256588
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\search.js = 1710768256599
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\stylesheet.css = 1710768256586
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\tag-search-index.js = 1710768256556
+D:\Users\alumnado\Documents\NetBeansProjects\RMF\hotel\target\site\apidocs\type-search-index.js = 1710768256554
